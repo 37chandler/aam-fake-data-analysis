@@ -1,3 +1,8 @@
+# Let's exclude our data files
+*.txt
+*.csv
+*.tsv
+
 # History files
 .Rhistory
 .Rapp.history
