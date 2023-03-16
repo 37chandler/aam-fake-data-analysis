@@ -5,7 +5,7 @@ This assignment asks you build a regression model and interpret it.
 ## Selecting the Data
 
 We'll assign data sets in class 
-using [this spreadsheet](https://docs.google.com/spreadsheets/d/1DuInbRRUvaKacpNAK9Qrm0RCEatd_z9Ve4n8RB5Vsh8/edit?usp=sharing). 
+using the spreadsheet. 
 The data files and the descriptive statistics are available on Moodle. If you weren't able to 
 attend class live, choose a data set for yourself on the spreadsheet, making sure that all 
 data sets have `n` analyzers before moving on to `n+1`. 
