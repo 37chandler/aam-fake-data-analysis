@@ -17,8 +17,3 @@ our customary exploratory data analysis (EDA), since your classmate has done tha
 
 Build the model that you think makes the most sense and interpret it. Build a new, well-formatted RMD
 file with your analysis and results. Knit this to HTML and, as usual, submit both your RMD and your HTML.
-
-Once again, to keep things a bit snappier, your first draft needs to be turned in within
-one week. We're getting the assignment on March 1, so please commit and push your 
-assignment by March 8.
-
